@@ -2,7 +2,6 @@
 
 # drum machine react app
 ### this is simple drum machine that user can play drum by using their keyboard
-# technology -stack
 # demo
 [https://alhamdu-e.github.io/quote-generator-app](https://alhamdu-e.github.io/quote-generator-app)
 ## contact 
